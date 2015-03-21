@@ -2,7 +2,7 @@
 # objective: transform the Human Activity Recognition Using Smartphones DataSet
 # in a Tidy Data Format based on Clean Data Analysis Course Project
 # the script contains 5 functions: mergeTraintest, extractMeansAndDeviations,
-# 
+ 
 
 # all the functions are comments below
 run_analysis <- function(){
