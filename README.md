@@ -4,12 +4,12 @@ This is the guide for anyone who wants run the the script named run_analysis fro
 It's very easy! all you need is described below!
 
 You should:
-1. Clone this git repository;
-2. Download the [UCI HAR Dataset](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip);
-3. Extract the zip file in your home directory;
-4. Copy the run_analysis.R script from your clone directory to UCI HAR Dataset directory;
-5. open R or RStudio and set your work directory to UCI HAR Dataset directory using the setwd() command;
-6. execute run_analysis.R scprit.
+1. Step 1 - Clone this git repository;
+1. Step 2 - Download the [UCI HAR Dataset](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip);
+1. Step 3 - Extract the zip file in your home directory;
+1. Step 4 - Copy the run_analysis.R script from your clone directory to UCI HAR Dataset directory;
+1. Step 5 - Open R or RStudio and set your work directory to UCI HAR Dataset directory using the setwd() command;
+1. Step 6 - Execute run_analysis.R scprit.
 
 # run_analysis.R script
 the [run_anlysis.R](https://github.com/lglima2015/cleaning_data_project/blob/master/run_analysis.R) is a script 
