@@ -37,11 +37,11 @@ Create averages in data set and change to tidy format.
 #Code Book
 The code book describe what are the variables contained in tidy dataset as result of run_analysis script.
 The code book always explains what the transformation was choosed in UCI HAR Dataset to achieve tidy data.
-to access Code book, click [here](https://github.com/lglima2015/cleaning_data_project/blob/master/run_analysis.R)
+to access Code book, click [here](https://github.com/lglima2015/cleaning_data_project/blob/master/codebook.md)
 
 #References
-About wearable computing read [this article](http://www.insideactivitytracking.com/data-science-activity-tracking-and-the-battle-for-the-worlds-top-sports-brand/)
-About the UCI Har Dataset, access [this link](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
+* About wearable computing read [this article](http://www.insideactivitytracking.com/data-science-activity-tracking-and-the-battle-for-the-worlds-top-sports-brand/).
+* About the UCI Har Dataset, access [this link](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones).
 
 
 
