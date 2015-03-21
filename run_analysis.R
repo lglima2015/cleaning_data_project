@@ -2,10 +2,10 @@
 # objective: transform the Human Activity Recognition Using Smartphones DataSet
 # in a Tidy Data Format based on Clean Data Analysis Course Project
 # the script contains 5 functions: mergeTraintest, extractMeansAndDeviations,
- 
-
-# all the functions are comments below
+# setDescriptiveActivity, setAppropriatelyLabels and createAverages.
+# All the functions are comments below
 run_analysis <- function(){
+    
     # Merges the training and the test sets to create one data set.
     mergeTrainTest <- function(){
         # specify files
@@ -92,6 +92,7 @@ run_analysis <- function(){
         colnames(selDataset) <- finalColnames
         selDataset
     }
+    # Create averages in data set and change to tidy format.
     createAverages <- function(df){
         mycolnames <- colnames(df)
         df$id <- factor(paste(df$activity,df$subject, sep = "_"))
