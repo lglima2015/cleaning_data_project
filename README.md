@@ -4,18 +4,21 @@ This is the guide for anyone who wants run the the script named run_analysis fro
 It's very easy! all you need is described below!
 
 You should:
-1. Step 1 - Clone this git repository;
-1. Step 2 - Download the [UCI HAR Dataset](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip);
-1. Step 3 - Extract the zip file in your home directory;
-1. Step 4 - Copy the run_analysis.R script from your clone directory to UCI HAR Dataset directory;
-1. Step 5 - Open R or RStudio and set your work directory to UCI HAR Dataset directory using the setwd() command;
-1. Step 6 - Execute run_analysis.R scprit.
+
+* Step 1 - Clone this git repository;
+* Step 2 - Download the [UCI HAR Dataset](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip);
+* Step 3 - Extract the zip file in your home directory;
+* Step 4 - Copy the run_analysis.R script from your clone directory to UCI HAR Dataset directory;
+* Step 5 - Open R or RStudio and set your work directory to UCI HAR Dataset directory using the setwd() command;
+* Step 6 - Execute run_analysis.R scprit.
 
 # run_analysis.R script
-the [run_anlysis.R](https://github.com/lglima2015/cleaning_data_project/blob/master/run_analysis.R) is a script 
+access here: [run_anlysis.R](https://github.com/lglima2015/cleaning_data_project/blob/master/run_analysis.R) is a script 
+
 ## What this script does: 
 Transform the Human Activity Recognition Using Smartphones DataSet in a Tidy Data Format based on Clean Data Analysis Course Project.
 The script contains 5 functions: 
+
 ### mergeTraintest 
 Merges the training and the test sets to create one data set.
 
