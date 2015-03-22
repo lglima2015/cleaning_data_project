@@ -15,6 +15,11 @@ You should:
 # run_analysis.R script
 access here: [run_anlysis.R](https://github.com/lglima2015/cleaning_data_project/blob/master/run_analysis.R) is a script 
 
+# Require Libraries
+* dplyr
+* plyr
+* gdata
+    
 ## What this script does: 
 Transform the Human Activity Recognition Using Smartphones DataSet in a tidy data format based on Clean Data Analysis Course Project.
 The purpose of this project is to demonstrate your ability to collect, work with, and clean a data set. 
