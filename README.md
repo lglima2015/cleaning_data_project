@@ -1,7 +1,7 @@
-Cleaning data Course Project
+Get and Cleaning data Course Project
 ===========
-This is the guide for anyone who wants run the the script named run_analysis from Cleaning Data Course Project.
-It's very easy! all you need is described below!
+This is the guide for anyone who wants run the script named run_analysis from Cleaning Data Course Project.
+It's very easy! All you need is described below!
 
 You should:
 
@@ -16,7 +16,10 @@ You should:
 access here: [run_anlysis.R](https://github.com/lglima2015/cleaning_data_project/blob/master/run_analysis.R) is a script 
 
 ## What this script does: 
-Transform the Human Activity Recognition Using Smartphones DataSet in a Tidy Data Format based on Clean Data Analysis Course Project.
+Transform the Human Activity Recognition Using Smartphones DataSet in a tidy data format based on Clean Data Analysis Course Project.
+The purpose of this project is to demonstrate your ability to collect, work with, and clean a data set. 
+The goal is to prepare tidy data that can be used for later analysis.
+
 The script contains 5 functions: 
 
 ### mergeTraintest 
